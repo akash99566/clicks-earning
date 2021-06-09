@@ -1,0 +1,2 @@
+# clicks-earning
+Earning app
